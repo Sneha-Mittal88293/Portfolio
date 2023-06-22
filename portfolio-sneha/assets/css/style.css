@@ -7143,8 +7143,9 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+/* edit color */
 .bg-primary {
-  background-color: #9663b4 !important;
+  background-color: #ae7eec !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -11726,7 +11727,8 @@ pre .code {
   background: #fff;
   border-bottom: 1px solid rgba(222, 226, 230, 0.34);
   
-  background-color: #9663b4;
+  /* edit color */
+  background-color: #ae7eec ;
 }
 
 .custom-navbar.affix .logo {
@@ -12081,7 +12083,7 @@ pre .code {
       -ms-flex-pack: center;
           justify-content: center;
   /* background-image: url(../imgs/bg2.jpg); */
-  background-color: #9663b4;
+  background-color: #ae7eec;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -12185,7 +12187,7 @@ pre .code {
 }
 
 #service{
-  background: #9663b4;
+  background: #ae7eec;
 }
 .about {
   display: -webkit-box;
